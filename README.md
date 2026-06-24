@@ -68,7 +68,9 @@ This project demonstrates skills in:
 - Data visualization using Power BI
 - Analytical thinking and storytelling with data
 
+Dashboard Preview
 
-
+![Superstore Dashboard](sales_analysis_project/screenshot/Dashboard-1.png)
+![Superstore Dashboard 2](sales_analysis_project/screenshot/Dashboard-2.png)
 Author
 Athithyan A
